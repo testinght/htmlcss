@@ -1,0 +1,64 @@
+h3{
+    color: rgb(50,100,200);
+    font-size:20px
+}
+
+h1{
+    font-size: 60px;
+    text-align:center;
+}
+
+h2{
+    font-size: 40px
+}
+
+div{
+    text-align:center;
+}
+
+button{
+    background-color: rgba(50,100,200,0.4);
+    font-weight:500;
+    font-size:20px;
+}
+
+body{
+    background-color:rgb(221, 229, 235);
+    font-family: Montserrat;
+}
+
+.type{
+    text-decoration: underline;
+}
+
+.attention{
+    background-color: rgba(50, 100, 200,0.4); font-size:30px;
+}
+
+#contact{
+    font-size: 30px;
+}
+
+#types{
+    list-style-type: disc;
+    list-style-position: inside;
+}
+
+#ctg{
+    list-style-type: square;
+}
+
+
+a{
+    color:blue;
+}
+
+a:visited{
+    color: orangered;
+}
+
+#ctg ul{
+    border: 1px solid lightgrey;
+}
+
+
